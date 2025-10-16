@@ -1,12 +1,8 @@
 ## 券面選択画面ガワ・CSS（8/29公開券面～）
 
-<details>
-
 __納品日__：2025.10.16
 
 __案件区分__：
-
-__GHC__：
 
 __[Memo]__
 ```
@@ -22,7 +18,6 @@ __[Memo]__
 | FEAT | https://github.com/marui-unite/epos_contents/tree/WTYQ-42_01 |
 | ISSUE | https://ghe-0101.com/cis/epos_contents/issues/13422 |
 | JIRA | https://lsap0101.atlassian.net/browse/WTYQ-112
- |
 
 | ENV | PR URL | Merge |
 | --- | --- | --- |
@@ -36,7 +31,3 @@ __[対象ファイル]__
 __[コマンドメモ]__
 ```
 ```
-
-</details>
-
----
