@@ -75,7 +75,6 @@ docs/memberservice/pc/rsp/v1/include-files/digitalQR/daito/text03.html
 docs/memberservice/pc/rsp/v1/include-files/digitalQR/daito/text04.html
 docs/memberservice/pc/rsp/v1/digitalQR/daito/js/form.js
 docs/memberservice/pc/rsp/v1/include-files/digitalQR/daito/text01.html
-dynamic/dynamic/digitalQR/daito/include/BV-1-1-1_SYS.html
 ```
 
 __[コマンドメモ]__
@@ -278,7 +277,7 @@ __[Memo]__
 
 | ENV | PR URL | Merge |
 | --- | --- | --- |
-| STG| - | - |
+| STG| https://github.com/marui-unite/epos_contents/pull/621 | - |
 | PRD | - | - |
 
 
