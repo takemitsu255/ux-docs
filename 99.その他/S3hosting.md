@@ -13,4 +13,11 @@ __静的コンテンツ（static）：Git Hub Cloud(GHC)__<br>
 Githubアカウントおよび、Organizationに含めてもらえれば使用可能<br>
 GitHubActionsおよびCodeBuildを仕様してCI/CDで自動Deploy
 
+| ENV | Domain | Remarks |
+| - | - | - |
+| Production | www.eposcard.co.jp | - |
+| Staging | epsstg20.eposcard.co.jp | - |
+| Preivew | *.preview-static.stg.epos-app.com | ワイルイドカードはBase32化されたS3Path<br>PR内のBotコメントで確認可能 |
+
+
 ![image](./img/overview.png)
