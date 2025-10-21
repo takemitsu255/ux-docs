@@ -11,7 +11,7 @@ OIOIネットワーク（6Fのセグメント）からのアクセスもしく�
 
 __静的コンテンツ（static）：Git Hub Cloud(GHC)__<br>
 Githubアカウントおよび、Organizationに含めてもらえれば使用可能<br>
-GitHubActionsおよびCodeBuildを仕様してCI/CDで自動Deploy
+GitHubActionsおよびCodeBuildを使用してしてCI/CDで自動Deploy
 
 | ENV | Domain | Remarks |
 | - | - | - |
