@@ -37,6 +37,11 @@ git add aaa/bbb/sample.html
 
 git commit -m "XXXXXX"
 git push origin feature/AAA
+
+# 05 GitHub上でPR作成
+　コメントに修正ファイルリストを記載する
+　レビュアーに`ambl-all`を追加する
+ 
 ```
 ![image](./img/GitFlow.png)
 
