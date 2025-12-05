@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  auto-screenshot:
+    build: .
+    container_name: auto-screenshot
+    # ホスト側の images/ をコンテナ内 /data にマウント
+    volumes:
+      - ./app:/app
+      - ./output:/output
+    # 一回実行して終わるバッチなので、基本 restart は不要
+    restart: "no"

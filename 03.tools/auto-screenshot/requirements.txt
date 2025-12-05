@@ -1,0 +1,8 @@
+selenium
+opencv-python
+numpy
+requests
+playwright
+pandas
+scikit-image
+pytesseract
