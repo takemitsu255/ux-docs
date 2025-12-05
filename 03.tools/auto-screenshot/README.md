@@ -1,3 +1,13 @@
+# docker install
+```
+/bin/bash -c "$(curl -fsSL raw.githubusercontent.com)"
+brew install colima
+brew install docker
+brew reinstall docker-compose
+brew reinstall docker-buildx
+
+```
+
 # colima 起動
 
 ```
