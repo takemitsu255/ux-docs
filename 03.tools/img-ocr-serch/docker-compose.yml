@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  img-ocr-search:
+    build: .
+    container_name: img-ocr-search
+    # ホスト側の images/ をコンテナ内 /data にマウント
+    volumes:
+      - ./docs:/data:ro
+      - ./output:/output
+      - ./ocr_config.json:/app/ocr_config.json:ro
+    # 一回実行して終わるバッチなので、基本 restart は不要
+    restart: "no"

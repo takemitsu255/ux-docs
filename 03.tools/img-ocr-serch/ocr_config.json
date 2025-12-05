@@ -1,0 +1,8 @@
+{
+  "target_dir": "/data",
+  "extensions": [".jpg", ".jpeg", ".png", ".bmp", ".gif"],
+  "keywords1": [""],
+  "keywords2": [""],
+  "lang": "jpn+eng",
+  "output": "/output/hit_images.txt"
+}
